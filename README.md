@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/352306496.svg)](https://zenodo.org/badge/latestdoi/352306496)
+
+
 ## About
 
 This repo contains functions for computing Bayes factors. 
